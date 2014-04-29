@@ -64,10 +64,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Lab1.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Lab1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lab1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.3739612" vertical-offset="0" max-vertical-offset="722">
+            <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab2.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -87,6 +105,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/Lab1.java" />
+        <option value="$PROJECT_DIR$/src/Lab2.java" />
       </list>
     </option>
   </component>
@@ -174,9 +193,25 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Lab1">
+  <component name="RunManager" selected="Application.Lab2">
     <configuration default="false" name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmu_bah_lab13_java" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,12 +353,14 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Lab1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Lab2" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Lab1" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Lab2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Lab1" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -409,7 +446,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Lab1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.3739612" vertical-offset="0" max-vertical-offset="722">
+        <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
